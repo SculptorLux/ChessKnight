@@ -1,1 +1,1 @@
-# ChessKnight
+# ChessKnight тестовая задача
